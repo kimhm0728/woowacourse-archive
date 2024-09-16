@@ -1,5 +1,21 @@
-# woowacourse-archive
-우아한테크코스 6기 안드로이드 과정 기록 😎
+# 🪐 woowacourse-archive
+### [우아한테크코스](https://www.woowacourse.io/) 6기 안드로이드 과정을 진행하면서 학습한 내용을 기록합니다.
+
+
+> 🌕우아한테크코스란🌕   
+> 우아한테크코스는 일반 사용자용 서비스를 개발하는 회사가 필요로 하는 역량을 가진 프로그래머를 양성하기 위한 교육입니다. 우리의 목표는 자기 주도적으로 학습하고 성장하고 싶은 개발자를 위한 교육을 만드는 것입니다.
+
+<br>
+
+# 목차
+- [프리코스, 최종 코딩 테스트](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [레벨 1 - 코틀린스러운, 읽기 쉬운 코드 작성하기](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [레벨 2 - 안드로이드 심화 학습](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [레벨 3 - 팀 프로젝트, 진한 협업 경험](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [레벨 4 - 팀 프로젝트 유지보수, 미션](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [글쓰기 미션 - 완벽주의 벗어나기](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive/edit/main/README.md#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 <br>
 
@@ -29,14 +45,68 @@
 
 <br>
 
+## 2️⃣ 레벨 2  
+**목표 : 안드로이드 신입 개발자를 뛰어넘는 지식을 흡수하기**
+- 안드로이드 프레임워크의 기본 구성요소와 View 컴포넌트, UI 테스트를 위한 Espresso 사용, MVP 아키텍처, Presenter 테스트에 대해 학습한다.
+- Fragment, 4대 컴포넌트 중 하나인 Broadcast Receiver 등을 활용해 앱에 새로운 기능을 추가하는 경험을 한다.
+- 스크롤 가능한 컴포넌트의 데이터를 로드하는 방법을 학습하고 적용할 수 있다. 복잡한 상태를 조작하여 뷰에 노출될 데이터를 관리하는 경험을 한다. MVVM 아키텍처를 학습한다.
+- 비동기 통신 방법을 학습한다. 비동기적으로 서버의 데이터를 가져와 뷰에 노출한다. ViewModel에서 Coroutines를 사용하고 이를 테스트하는 방법에 대해 학습한다.
+
+
+| Mission    | Repository                                                        | Step 1, 2                                                             | Step 3, 4 | 회고 |
+| ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | ---- |
+| 영화 티켓 예매 | [android-movie-ticket](https://github.com/kimhm0728/android-movie-ticket) | [PR-72](https://github.com/woowacourse/android-movie-ticket/pull/72) | [PR-83](https://github.com/woowacourse/android-movie-ticket/pull/83) | [링크](https://thdbs523.tistory.com/416) |
+| 영화 극장 선택 | [android-movie-theater](https://github.com/kimhm0728/android-movie-theater)         | [PR-57](https://github.com/woowacourse/android-movie-theater/pull/57)       | [PR-75](https://github.com/woowacourse/android-movie-theater/pull/75) | [링크](https://thdbs523.tistory.com/417) |
+| 쇼핑 장바구니  | [android-shopping-cart](https://github.com/kimhm0728/android-shopping-cart) | [PR-54](https://github.com/woowacourse/android-shopping-cart/pull/54)   | [PR-79](https://github.com/woowacourse/android-shopping-cart/pull/79) | [링크](https://thdbs523.tistory.com/419) |
+| 쇼핑 주문     | [android-shopping-order](https://github.com/kimhm0728/android-shopping-order)           | [PR-65](https://github.com/woowacourse/android-shopping-order/pull/65)        | [PR-79](https://github.com/woowacourse/android-shopping-order/pull/79) | [링크](https://thdbs523.tistory.com/420) |
+
+<br>
+
+## 3️⃣ 레벨 3   
+**목표 : 여러 문제에 부딪혀보고 깊게 고민해보기**
+- 오디 서비스 소개
+> 실시간 위치를 기반으로 친구의 지각 여부, 도착 예정 시간을 알 수 있는 서비스🍇   
+오디는 지각이 빈번한 친구가 제시간에 도착할 수 있게 도와주고, 매번 기다리는 친구에게는 얼마나 기다려야 할지 정확히 알려줍니다.
+- [오디 깃허브 링크](https://github.com/woowacourse-teams/2024-ody)
+- [맡은 PR 모아보기](https://github.com/woowacourse-teams/2024-ody/pulls?q=is%3Apr+assignee%3Akimhm0728+is%3Aclosed)
+
+<br>
+
+## 4️⃣ 레벨 4   
+**목표 :**
+- DI 라이브러리가 없이도 의존성 주입이 가능하단 것을 이해한다. 직접 DI 라이브러리를 만들면서 의존성 주입에 필요한 다양한 요소를 개발하고 적용하는 경험을 한다.
+- (클라이언트 개발자라면 응당 할 줄 알아야 하는) 어려운 요구사항의 뷰를 구현하며 화면에 그려지는 요소에 대한 이해를 높인다.
+- 선언형 프로그래밍 패러다임을 소개하고 컴포즈의 기본적인 문법을 익힌다. 컴포즈에서 제공하는 여러 가지 컴포넌트를 활용하고 복잡하지 않고 유연한 컴포넌트 설계 노하우와 상태 관리 팁을 얻어간다.
+
+
+| Mission    | Repository                                                        | Step 1, 2                                                             | Step 3, 4 | 회고 |
+| ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | ---- |
+| 만들면서 배우는 DI | [android-di](https://github.com/kimhm0728/android-di) | [PR-86](https://github.com/woowacourse/android-di/pull/86) | [PR-109](https://github.com/woowacourse/android-di/pull/109) | - |
+| 복잡한 뷰 챌린지 | - | - | - | - |
+| 학습 테스트로 배우는 컴포즈 | - | - | - | - |
+
+<br>
+
+## 🎤 테코톡
+> '10분 테코톡'이란   
+> 우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
+
+[올리브의 코틀린 Primitive Type과 Wrapper Class](https://www.youtube.com/watch?v=x0l_6AizLrs)
+
+<br>
+
 ## 📖 글쓰기 미션
 - `유연성 강화 스터디를 통해 발견한 나, 그리고 변화할 나`에 대해 작성한다.
 
 | 레벨   | 글 보러 가기                                                             | 유연성 강화 목표 |
 | ------ | ----------------------------------------------------------------------- | ---------------- |
 | 레벨 1 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level1/LEVEL1.md) | 완벽하지 않아도 일단 도전해보자 |
-| 레벨 2 | - |
-| 레벨 3 | - |
+| 레벨 2 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level2/LEVEL2.md) | 완벽하지 않은 나를 받아들이기 |
+| 레벨 3 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level3/LEVEL3.md) | 완벽하지 않은 나를 받아들이기 |
 | 레벨 4 | - |
 | 레벨 5 | - |
 
+<br>
+
+## 👩‍💻 테크니컬 라이팅
+- 
