@@ -64,26 +64,26 @@
 
 ## 3️⃣ 레벨 3   
 **목표 : 여러 문제에 부딪혀보고 깊게 고민해보기**
-- 오디 서비스 소개
-> 실시간 위치를 기반으로 친구의 지각 여부, 도착 예정 시간을 알 수 있는 서비스🍇   
-오디는 지각이 빈번한 친구가 제시간에 도착할 수 있게 도와주고, 매번 기다리는 친구에게는 얼마나 기다려야 할지 정확히 알려줍니다.
+- 🍇오디🍇 서비스 소개
+> 더 이상 "너 어디야?"라고 물어보지 마세요. 약속을 더욱 즐겁고 편안하게, 여러분의 우정을 더욱 돈독하게 만들어 드릴게요.   
+
 - [오디 깃허브 링크](https://github.com/woowacourse-teams/2024-ody)
 - [맡은 PR 모아보기](https://github.com/woowacourse-teams/2024-ody/pulls?q=is%3Apr+assignee%3Akimhm0728+is%3Aclosed)
 
 <br>
 
 ## 4️⃣ 레벨 4   
-**목표 :**
+**목표 : 나의 강점 찾고 나만의 차별점 만들기**
 - DI 라이브러리가 없이도 의존성 주입이 가능하단 것을 이해한다. 직접 DI 라이브러리를 만들면서 의존성 주입에 필요한 다양한 요소를 개발하고 적용하는 경험을 한다.
-- (클라이언트 개발자라면 응당 할 줄 알아야 하는) 어려운 요구사항의 뷰를 구현하며 화면에 그려지는 요소에 대한 이해를 높인다.
-- 선언형 프로그래밍 패러다임을 소개하고 컴포즈의 기본적인 문법을 익힌다. 컴포즈에서 제공하는 여러 가지 컴포넌트를 활용하고 복잡하지 않고 유연한 컴포넌트 설계 노하우와 상태 관리 팁을 얻어간다.
+- 어려운 요구사항의 뷰를 구현하며 화면에 그려지는 요소에 대한 이해를 높인다.
+- 선언형 프로그래밍 패러다임을 배우고 컴포즈의 기본적인 문법을 익힌다. 컴포즈에서 제공하는 여러 가지 컴포넌트를 활용하여 복잡하지 않고 유연한 컴포넌트 설계 노하우와 상태 관리 팁을 학습한다.
 
 
-| Mission    | Repository                                                        | Step 1, 2                                                             | Step 3, 4 | 회고 |
-| ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | ---- |
-| 만들면서 배우는 DI | [android-di](https://github.com/kimhm0728/android-di) | [PR-86](https://github.com/woowacourse/android-di/pull/86) | [PR-109](https://github.com/woowacourse/android-di/pull/109) | - |
-| 복잡한 뷰 챌린지 | - | - | - | - |
-| 학습 테스트로 배우는 컴포즈 | - | - | - | - |
+| Mission    | Repository                                                        | Step 1, 2                                                             | Step 3, 4 |
+| ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ |
+| 만들면서 배우는 DI | [android-di](https://github.com/kimhm0728/android-di) | [PR-86](https://github.com/woowacourse/android-di/pull/86) | [PR-109](https://github.com/woowacourse/android-di/pull/109) |
+| 복잡한 뷰 챌린지 | [android-paint](https://github.com/kimhm0728/android-paint) | [PR-85](https://github.com/woowacourse/android-paint/pull/85) | [PR-97](https://github.com/woowacourse/android-paint/pull/97) |
+| 학습 테스트로 배우는 컴포즈 | [android-signup](https://github.com/kimhm0728/android-signup) | [PR-2](https://github.com/woowacourse/android-signup/pull/2) | [PR-30](https://github.com/woowacourse/android-signup/pull/30) |
 
 <br>
 
@@ -103,8 +103,6 @@
 | 레벨 1 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level1/LEVEL1.md) | 완벽하지 않아도 일단 도전해보자 |
 | 레벨 2 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level2/LEVEL2.md) | 완벽하지 않은 나를 받아들이기 |
 | 레벨 3 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level3/LEVEL3.md) | 완벽하지 않은 나를 받아들이기 |
-| 레벨 4 | - |
-| 레벨 5 | - |
 
 <br>
 
