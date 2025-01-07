@@ -12,7 +12,7 @@
 - [레벨 1 - 코틀린스러운, 읽기 쉬운 코드 작성하기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-1)
 - [레벨 2 - 안드로이드 심화 학습](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-2)
 - [레벨 3 - 팀 프로젝트, 진한 협업 경험](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#3%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-3)
-- [레벨 4 - 팀 프로젝트 유지보수, 미션](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
+- [레벨 4 - 팀 프로젝트 유지보수, 미션](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#4%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-4)
 - [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
 - [글쓰기 미션 - 완벽주의 벗어나기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
 - [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
