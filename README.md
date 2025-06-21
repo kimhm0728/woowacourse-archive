@@ -8,20 +8,22 @@
 <br>
 
 # 목차
-- [프리코스, 최종 코딩 테스트](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
-- [레벨 1 - 코틀린스러운, 읽기 쉬운 코드 작성하기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-1)
-- [레벨 2 - 안드로이드 심화 학습](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-2)
-- [레벨 3 - 팀 프로젝트, 진한 협업 경험](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#3%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-3)
-- [레벨 4 - 팀 프로젝트 유지보수, 미션](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#4%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-4)
-- [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
-- [글쓰기 미션 - 완벽주의 벗어나기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
-- [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
+1. [프리코스, 최종 코딩 테스트](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+2. [레벨 1 - 코틀린, 객체지향, TDD](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-1)
+3. [레벨 2 - 안드로이드, 비동기, MVVM](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-2)
+4. [레벨 3 - 팀 프로젝트](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#3%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-3)
+5. [레벨 4 - 팀 프로젝트 유지보수, 심화 미션](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#4%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-4)
+6. [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
+7. [방과후 수업 - Lazy Evaluation]()
+8. [유연성 강화 글쓰기 - 완벽주의 벗어나기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
+9. [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
 
 <br>
 
 ## 🥔 프리코스, 최종 코딩 테스트
 - 누구나 이해하기 쉬운 간결한 코드를 작성하기 위해 고민했습니다.
 - 돌아가는 코드가 아닌 가독성 좋은 코드의 중요성을 깨달았습니다.
+
 | Mission           | Repository                               | Pull Request                            |
 | ----------------- | ---------------------------------------- | --------------------------------------- |
 | 숫자 야구          | [kotlin-baseball-6](https://github.com/kimhm0728/kotlin-baseball-6)   | [PR-45](https://github.com/woowacourse-precourse/kotlin-baseball-6/pull/45)  |
@@ -33,11 +35,11 @@
 <br>
 
 ## 1️⃣ 레벨 1 - 코틀린, 객체지향, TDD
-**유지보수 하기 쉬운 코드를 고민했습니다**
+**유지보수 하기 쉬운 코드를 고민했습니다.**
 - 코틀린 언어를 깊이 학습하고, 코틀린스럽게 코드를 작성했습니다.
 - 단순히 기능 구현을 넘어, 객체가 적절한 책임을 가지고 협력하는 구조를 설계하고자 노력했습니다.
 - TDD로 미니 프로젝트를 구현하며, 테스트하기 쉬운 코드를 작성하기 위해 고민했습니다.
-- <객체지향의 사실과 오해>, <엘레강트 오브젝트> 교재 스터디에 참여하며 객체지향에 대해 이해했습니다.
+- `<객체지향의 사실과 오해>`, `<엘레강트 오브젝트>` 교재 스터디에 참여하며 객체지향에 대해 이해했습니다.
 
 | Mission    | Repository                                                        | Step 1                                                             | Step 2 | 회고 |
 | ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ | ---- |
@@ -49,15 +51,15 @@
 <br>
 
 ## 2️⃣ 레벨 2 - 안드로이드, 비동기, MVVM
-**안드로이드 개발 기술들을 기초부터 최신 기술까지 단계적으로 학습했습니다.**
+**안드로이드 기술들을 기초부터 최신 기술까지 단계적으로 학습했습니다.**
 - 비동기 프로그래밍
-	- 안드로이드의 Thread와 Handler, Looper의 역할과 동작 원리를 이해했습니다.
-	- 이후 Retrofit과 코루틴을 함께 사용하며 코루틴의 동작 방식을 학습했습니다.
+   - 안드로이드의 Thread와 Handler, Looper의 역할과 동작 원리를 이해했습니다.
+   - 이후 Retrofit과 코루틴을 함께 사용하며 코루틴의 동작 방식을 학습했습니다.
 - 아키텍처 패턴
-	- MVC, MVP, MVVM를 점진적으로 적용하며, 각 패턴의 장단점과 활용 시점을 이해했습니다.
-	- 아키텍처 패턴은 그 자체가 목적이 아닌, "유지보수성을 높이기 위한 수단"임을 깨달았습니다.
+   - MVC, MVP, MVVM를 점진적으로 적용하며, 각 패턴의 장단점과 활용 시점을 이해했습니다.
+   - 아키텍처 패턴은 그 자체가 목적이 아닌, "유지보수성을 높이기 위한 수단"임을 깨달았습니다.
 - UI 구현
-	- findViewById와 뷰 바인딩, 데이터 바인딩을 점진적으로 적용했습니다. 
+   - findViewById와 뷰 바인딩, 데이터 바인딩을 점진적으로 적용했습니다. 
 - 안드로이드 기초
   - Activity/Fragment 생명주기, 4대 컴포넌트, UI 테스트(Espresso)
   - ViewModel, LiveData, 중첩 스크롤 뷰, 상태 관리
@@ -72,12 +74,12 @@
 <br>
 
 ## 3️⃣ 레벨 3 - 팀 프로젝트
-**목표 : 여러 문제에 부딪혀보고 깊게 고민해보기**
 - 🍇오디🍇 서비스 소개
 > 더 이상 "너 어디야?"라고 물어보지 마세요. 약속을 더욱 즐겁고 편안하게, 여러분의 우정을 더욱 돈독하게 만들어 드릴게요.   
 - 기획부터 디자인, 개발, 배포까지 전 과정에 참여했습니다.
 - 주간 회고, 데일리 스크럼, 기술 공유 세션을 통해 팀원들과 적극적으로 소통했습니다.
-- 또한 객관적인 근거를 바탕으로 자신의 의견을 설득하고, 효과적으로 지식을 전달하는 방법을 배웠습니다.
+
+<br>
 
 - [오디 깃허브](https://github.com/woowacourse-teams/2024-ody)
 - [오디 Play Store](https://play.google.com/store/apps/details?id=com.mulberry.ody)
@@ -85,15 +87,10 @@
 
 <br>
 
-## 4️⃣ 레벨 4 - 팀 프로젝트, 심화 미션
-**목표 : 나의 강점 찾고 나만의 차별점 만들기**
-또한 뷰 최적화와 커스텀 뷰, 드래그 이벤트 처리 등을 구현하며 심화적인 부분도 학습했습니다.
-- 객체의 느슨한 결합을 위해, 의존성 주입에 대해 학습했습니다. 리플렉션을 사용해 DI 라이브러리를 직접 구현했습니다.
-
-
-- DI 라이브러리가 없이도 의존성 주입이 가능하단 것을 이해한다. 직접 DI 라이브러리를 만들면서 의존성 주입에 필요한 다양한 요소를 개발하고 적용하는 경험을 한다.
-- 어려운 요구사항의 뷰를 구현하며 화면에 그려지는 요소에 대한 이해를 높인다.
-- 선언형 프로그래밍 패러다임을 배우고 컴포즈의 기본적인 문법을 익힌다. 컴포즈에서 제공하는 여러 가지 컴포넌트를 활용하여 복잡하지 않고 유연한 컴포넌트 설계 노하우와 상태 관리 팁을 학습한다.
+## 4️⃣ 레벨 4 - 팀 프로젝트 유지보수, 심화 미션
+- 커스텀 뷰를 구현하며 뷰의 생명주기와 뷰 최적화와, 드래그 이벤트 처리 등을 학습했습니다.
+- 리플렉션을 사용해 DI 라이브러리를 직접 구현했습니다. 의존성 주입에 필요한 여러 요소들을 개발하며, 유연한 설계에 대해 학습했습니다.
+- Compose의 기본적인 문법을 익혔습니다. 선언형 UI와 유연한 컴포넌트 설계, 상태 관리 방법에 대해 이해했습니다.
 
 | Mission    | Repository                                                        | Step 1, 2                                                             | Step 3, 4 |
 | ---------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ------ |
@@ -103,9 +100,6 @@
 
 <br>
 
-## 소프트스킬
-
-
 ## 🎤 테코톡
 > '10분 테코톡'이란   
 > 우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
@@ -114,8 +108,15 @@
 
 <br>
 
-## 📖 글쓰기 미션
-- `유연성 강화 스터디를 통해 발견한 나, 그리고 변화할 나`에 대해 작성한다.
+## 👥 방과후 수업
+- 제 지식을 다른 사람들과 공유하고 함께 성장하는 것을 좋아합니다. 개발 지식을 효과적으로 전달하고, 객관적인 근거를 바탕으로 자신의 의견을 설득하는 방식을 배웠습니다.
+- `<엘레강트 오브젝트>` 스터디를 하며 배운 것들을 주제로 수업을 진행했습니다.
+- [🔗 수업 자료 보러 가기](https://thdbs523.tistory.com/413)
+
+<br>
+
+## 📖 유연성 강화 글쓰기
+- `유연성 강화 스터디를 통해 발견한 나, 그리고 변화할 나`를 주제로 글을 작성했습니다.
 
 | 레벨   | 글 보러 가기                                                             | 유연성 강화 목표 |
 | ------ | ----------------------------------------------------------------------- | ---------------- |
