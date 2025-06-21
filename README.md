@@ -13,10 +13,10 @@
 3. [레벨 2 - 안드로이드, 비동기, MVVM](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-2)
 4. [레벨 3 - 팀 프로젝트](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#3%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-3)
 5. [레벨 4 - 팀 프로젝트 유지보수, 심화 미션](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#4%EF%B8%8F%E2%83%A3-%EB%A0%88%EB%B2%A8-4)
-6. [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
-7. [방과후 수업 - Lazy Evaluation]()
+7. [방과후 수업 - Lazy Evaluation](https://github.com/kimhm0728/woowacourse-archive/tree/main?tab=readme-ov-file#-%EB%B0%A9%EA%B3%BC%ED%9B%84-%EC%88%98%EC%97%85)
 8. [유연성 강화 글쓰기 - 완벽주의 벗어나기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%EA%B8%80%EC%93%B0%EA%B8%B0-%EB%AF%B8%EC%85%98)
-9. [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
+9. [테코톡 - 코틀린 Primitive Type과 Wrapper Class](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%EC%BD%94%ED%86%A1)
+10. [테크니컬 라이팅 - 안드로이드 백그라운드 작업 도입기](https://github.com/kimhm0728/woowacourse-archive?tab=readme-ov-file#-%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85)
 
 <br>
 
@@ -100,14 +100,6 @@
 
 <br>
 
-## 🎤 테코톡
-> '10분 테코톡'이란   
-> 우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
-
-[올리브의 코틀린 Primitive Type과 Wrapper Class](https://www.youtube.com/watch?v=x0l_6AizLrs)
-
-<br>
-
 ## 👥 방과후 수업
 - 제 지식을 다른 사람들과 공유하고 함께 성장하는 것을 좋아합니다. 개발 지식을 효과적으로 전달하고, 객관적인 근거를 바탕으로 자신의 의견을 설득하는 방식을 배웠습니다.
 - `<엘레강트 오브젝트>` 스터디를 하며 배운 것들을 주제로 수업을 진행했습니다.
@@ -123,6 +115,15 @@
 | 레벨 1 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level1/LEVEL1.md) | 완벽하지 않아도 일단 도전해보자 |
 | 레벨 2 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level2/LEVEL2.md) | 완벽하지 않은 나를 받아들이기 |
 | 레벨 3 | [링크](https://github.com/kimhm0728/woowa-writing/blob/level3/LEVEL3.md) | 완벽하지 않은 나를 받아들이기 |
+
+<br>
+
+
+## 🎤 테코톡
+> '10분 테코톡'이란   
+> 우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
+
+[올리브의 코틀린 Primitive Type과 Wrapper Class](https://www.youtube.com/watch?v=x0l_6AizLrs)
 
 <br>
 
